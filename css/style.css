@@ -1,0 +1,106 @@
+body{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.heading1{
+    background-image: url('img/writing-1149962_1920.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+
+.carousel-item
+{   
+    height:80vh;
+    color:#fff;
+    text-align: center;
+}
+.carousel-caption{
+    top:20px;
+}
+.carousel-caption h1{
+    font-size:50px;
+    
+}
+.carousel-caption p{
+    font-size:20px;
+}
+#features{
+    text-align:center;
+    padding:7% 17%;
+}
+
+
+
+.col{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+#features i{
+    color:#233e8b;
+    
+}
+#features i:hover{
+    color:blue;
+}
+#features h3{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+#features p{
+    padding-bottom: 10px;
+    font-weight: bold;
+    color:gray;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+a:hover{
+    text-decoration: none;
+    color:#fff;
+    
+}
+li a:hover{
+    color:black;
+}
+ul{
+    padding:0;
+    margin:0;
+}
+li{
+    list-style-type: none;
+    padding:0;
+    margin:0;
+}
+li a{
+    text-decoration: none;
+    color:grey;
+}
+#notes{
+    background-color:#b6c9f0;
+}
+a img{
+    width:250px;
+    height: 250px;
+}
+a h3{
+    color:blue;
+}
+a h3:hover{
+    color:lightblue;
+}
+#hand-notes .container{
+    text-align: center;
+}
+footer{
+    padding:7% 17%;
+    text-align: center;
+    background-color: #ccc;
+    margin-top:40px;
+}
